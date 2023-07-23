@@ -1,0 +1,1 @@
+# plant-leaf-disease-detection-using-MobileNetV2-by-CNN
