@@ -1,4 +1,5 @@
 # plant-leaf-disease-detection-using-MobileNetV2-by-CNN
+
 For training code click on pv_mobilenet.ipynb
 
 
