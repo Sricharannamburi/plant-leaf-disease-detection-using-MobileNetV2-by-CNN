@@ -18,5 +18,14 @@ dataset of plant leaf images.</p><hr>
 <h2>DataSet</h2>
 https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
+<p>Download the dataset Properly and check the folders of Train and Test</p><hr>
+
 <h2>WorkFlow</h2>
+
+
 ![git1](https://github.com/Sricharannamburi/plant-leaf-disease-detection-using-MobileNetV2-by-CNN/assets/137995687/34b79719-df25-42a6-8a41-c1edcbb1c9f4)
+<hr>
+<h2>Code</h2>
+<p>Train Code is avaliable at pv_mobilenet.ipynb</p>
+
+<p>Test code is avaliable at TESTING NEW 1.py</p><hr>
