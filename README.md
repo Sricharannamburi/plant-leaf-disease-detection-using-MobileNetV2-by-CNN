@@ -19,4 +19,4 @@ dataset of plant leaf images.</p><hr>
 https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 <h2>WorkFlow</h2>
-<img src="C:\Users\sricharan namburi\Downloads\git1.jpg">
+![git1](https://github.com/Sricharannamburi/plant-leaf-disease-detection-using-MobileNetV2-by-CNN/assets/137995687/34b79719-df25-42a6-8a41-c1edcbb1c9f4)
